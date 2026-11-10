@@ -130,4 +130,4 @@ Average buffer content in the baseline: buffer 1 holds 4.76 of 5 parts (almost a
 
 ## 11. Author
 
-[Your name] | [LinkedIn URL] | [Email]
+Tharaniraam C S | https://www.linkedin.com/in/tharaniraam/ | tharaniraamcs@gmail.com
